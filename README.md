@@ -27,3 +27,25 @@ O projeto foi realizado em grupo. As principais atividades feitas por mim foram:
 - Montar os fluxos do protótipo dentro do Figma;
 
 - Supervisionar todo o desenvolvimento do projeto.
+
+## Fluxo e telas do projeto no Figma
+
+<div align = "center">
+
+#### Tela Home Parada Cardíaca - a partir dela, pode-se notar os três principais fluxos do app: Procedimento, Guias e Protocolos e Configurações. 
+
+![Tela Home do aplicativo](https://github.com/leonardonps/prototipacao-figma-parada-cardiaca/blob/main/imagens/tela-home.png)
+
+#### Fluxo completo do aplicativo - Parte I: Guias e Protocolos, Configurações e Tutorial sobre o procedimento.
+
+![Fluxo principal do projeto - Parte I](https://github.com/leonardonps/prototipacao-figma-parada-cardiaca/blob/main/imagens/fluxo-principal-1.png)
+
+#### Fluxo completo do aplicativo - Parte II: Procedimento.
+
+![Fluxo principal do projeto - Parte II](https://github.com/leonardonps/prototipacao-figma-parada-cardiaca/blob/main/imagens/fluxo-principal-2.png)
+
+#### Guia rápido do aplicativo apresentado assim que se abre a aplicação pela primeira vez.
+
+![Guia rápido - aparece quando se abre o aplicativo pela primeira vez](https://github.com/leonardonps/prototipacao-figma-parada-cardiaca/blob/main/imagens/guia-rapido.png)
+
+</div>
